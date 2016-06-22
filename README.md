@@ -1,2 +1,2 @@
-# githubdemo
+# gitHUbdemo renamed to SpringDemos
 checking demo
